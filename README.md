@@ -6,4 +6,4 @@ This project is the first phase of a three-stage build:
 
 ⬜ Discrete PCB — Build using logic ICs on a custom PCB
 
-Final goal: A transparent-encased padlock that demonstrates Boolean logic executing in real silicon.
+Final goal: A transparent-encased padlock that demonstrates logic executing in real silicon.
