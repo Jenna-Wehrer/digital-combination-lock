@@ -1,7 +1,9 @@
 This project is the first phase of a three-stage build:
 
 ✅ Simulation — Complete (this repository)
+
 ⬜ FPGA Implementation — Port to Verilog, flash to iCE40 FPGA on custom PCB
+
 ⬜ Discrete PCB — Build using logic ICs on a custom-designed PCB with KiCad
 
 Final goal: A transparent-encased padlock that demonstrates Boolean logic executing in real silicon.
