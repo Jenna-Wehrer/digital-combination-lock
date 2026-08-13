@@ -7,3 +7,12 @@ This project is the first phase of a three-stage build:
 ⬜ Discrete PCB — Build using logic ICs on a custom PCB
 
 Final goal: A transparent-encased padlock that demonstrates logic executing in real silicon.
+
+
+Stretch Goals:
+
+⬜ Relay Logic (The Clacking Monster)
+
+⬜ Vacuum Tubes (The Amber Glowing Beast)
+
+⬜ Fluidic Logic (The Waterfall That Computes)
