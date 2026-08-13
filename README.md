@@ -1,3 +1,7 @@
+Originally designed with ring counters, sketched on paper circa 2006, 
+later recreated in Minecraft using a logic gate mod, and finally 
+reimplemented and improved in Logisim-Evolution for proper simulation and FPGA porting.
+
 This project is the first phase of a three-stage build:
 
 ✅ Simulation — Complete (this repository)
